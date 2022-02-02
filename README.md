@@ -1,2 +1,2 @@
-# Autokmation
+# Automation
 Automation script
